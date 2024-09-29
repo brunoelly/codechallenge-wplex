@@ -14,22 +14,6 @@ Este projeto implementa um sistema para rastrear eventos gerados por rastreadore
 - Jackson (para manipulação de CSV)
 - Maven (como gerenciador de dependências)
 
-## Estrutura do Projeto
-src
-├── main
-│ ├── java
-│ │ └── com
-│ │ └── codechallenge
-│ │ └── wplex
-│ │ ├── controller
-│ │ ├── dto
-│ │ ├── entity
-│ │ └── service
-│ └── resources
-│ └── data
-│ └── eventlog.csv
-└── test
-
 ## Como Executar
 
 1. **Clone o repositório**:
